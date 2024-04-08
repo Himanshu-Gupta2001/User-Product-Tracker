@@ -1,0 +1,15 @@
+.image {
+    background-image: url(../images/sample.png);
+    background-repeat: no-repeat;
+    height: 513px;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.dashboard-heading {
+    font-family: 'Ojuju';
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    font-size: calc(1.325rem + .9vw);
+}

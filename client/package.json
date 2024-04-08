@@ -1,0 +1,22 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "sass": "^1.71.1",
+    "vite": "^5.1.5",
+    "vite-plugin-html": "^3.2.2",
+    "vite-plugin-pwa": "^0.19.2",
+    "vite-plugin-vue-devtools": "^7.0.17"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Chetan Gupta",
+  "license": "ISC"
+}
